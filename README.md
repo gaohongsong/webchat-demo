@@ -1,4 +1,4 @@
-# djang + webchatpy
+# django1.11 + webchatpy
 
 https://github.com/jxtech/wechatpy
 
